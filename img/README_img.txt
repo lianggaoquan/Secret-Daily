@@ -1,0 +1,1 @@
+put your own image in this directory,and name it as 'img.jpg'
