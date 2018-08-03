@@ -3,6 +3,6 @@
 - 使用前请将一张你的个人照片放到img文件夹下面，并在[Face++官网](https://console.faceplusplus.com.cn)注册获取key和secret，将其填入face.py中
 - 运行软件:
 ```python
-python note.py
+python3 note.py
 
 ```
