@@ -8,7 +8,7 @@ from face import *
 def Write(filepath):
 
 	L = list(time.asctime(time.localtime(time.time())).split(' '))
-	filename = L[0] + '-' + L[1] + '-' + L[5] + '.bin'
+	filename = L[1] + '-' + L[2] + '-' + L[4] + '.bin'
 	file = os.path.join(filepath, filename)
 		
 	if os.path.exists(file):
